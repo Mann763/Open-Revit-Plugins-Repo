@@ -1,0 +1,42 @@
+# =========================
+# Visual Studio / .NET
+# =========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# =========================
+# Revit / Add-in outputs
+# =========================
+*.dll
+*.pdb
+*.log
+
+# =========================
+# Generated data / exports
+# =========================
+*.csv
+*.txt
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary / backups
+# =========================
+*.tmp
+*.bak
+*.old

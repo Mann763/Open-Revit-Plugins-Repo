@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Shared Coord Exporter App</Name>
+    <Assembly>D:\Download\AddIn\SharedCoordExporter\SharedCoordExporter\bin\Release\Open-Revit-Plugins-Repo\SharedCoordExporter.dll</Assembly>
+    <AddInId>8D83F7F3-9C61-4E1A-AF24-111111111111</AddInId>
+    <FullClassName>SharedCoordExporter.App</FullClassName>
+    <VendorId>MAN</VendorId>
+    <VendorDescription>Ribbon for shared coordinate exporter</VendorDescription>
+  </AddIn>
+</RevitAddIns>
