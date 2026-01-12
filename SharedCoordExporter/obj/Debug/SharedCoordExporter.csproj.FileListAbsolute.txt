@@ -1,0 +1,6 @@
+D:\Download\AddIn\SharedCoordExporter\SharedCoordExporter\bin\Debug\SharedCoordExporter.dll
+D:\Download\AddIn\SharedCoordExporter\SharedCoordExporter\bin\Debug\SharedCoordExporter.pdb
+D:\Download\AddIn\SharedCoordExporter\SharedCoordExporter\obj\Debug\SharedCoordExporter.csproj.AssemblyReference.cache
+D:\Download\AddIn\SharedCoordExporter\SharedCoordExporter\obj\Debug\SharedCoordExporter.csproj.CoreCompileInputs.cache
+D:\Download\AddIn\SharedCoordExporter\SharedCoordExporter\obj\Debug\SharedCoordExporter.dll
+D:\Download\AddIn\SharedCoordExporter\SharedCoordExporter\obj\Debug\SharedCoordExporter.pdb
