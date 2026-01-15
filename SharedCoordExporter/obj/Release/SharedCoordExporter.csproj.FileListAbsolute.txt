@@ -4,3 +4,9 @@ D:\Download\AddIn\SharedCoordExporter\SharedCoordExporter\obj\Release\SharedCoor
 D:\Download\AddIn\SharedCoordExporter\SharedCoordExporter\obj\Release\SharedCoordExporter.csproj.CoreCompileInputs.cache
 D:\Download\AddIn\SharedCoordExporter\SharedCoordExporter\obj\Release\SharedCoordExporter.dll
 D:\Download\AddIn\SharedCoordExporter\SharedCoordExporter\obj\Release\SharedCoordExporter.pdb
+D:\Download\AddIn\SharedCoordExporter\Open-Revit-Plugins-Repo\SharedCoordExporter\obj\Release\SharedCoordExporter.csproj.AssemblyReference.cache
+D:\Download\AddIn\SharedCoordExporter\Open-Revit-Plugins-Repo\SharedCoordExporter\obj\Release\SharedCoordExporter.csproj.CoreCompileInputs.cache
+D:\Download\AddIn\SharedCoordExporter\Open-Revit-Plugins-Repo\SharedCoordExporter\obj\Release\SharedCoordExporter.dll
+D:\Download\AddIn\SharedCoordExporter\Open-Revit-Plugins-Repo\SharedCoordExporter\obj\Release\SharedCoordExporter.pdb
+D:\Download\AddIn\SharedCoordExporter\Open-Revit-Plugins-Repo\SharedCoordExporter\bin\Release\SharedCoordExporter.dll
+D:\Download\AddIn\SharedCoordExporter\Open-Revit-Plugins-Repo\SharedCoordExporter\bin\Release\SharedCoordExporter.pdb

@@ -33,8 +33,24 @@ namespace SharedCoordExporter
                     "SharedCoordExporter.GetAllProperties"
                 );
 
+                PushButtonData uuidBtn = new PushButtonData(
+                    "SelectUUID",
+                    "Select\nBy UUID",
+                    dllPath,
+                    "SelectByUUID.SearchUsingUUID"
+                );
+
+                PushButtonData rotateBtn = new PushButtonData(
+                    "RotateModel",
+                    "Rotate\nModel",
+                    dllPath,
+                    "SharedCoordExporter.RotateModelCommand"
+                );
+
                 panel.AddItem(sharedBtn);
                 panel.AddItem(propsBtn);
+                panel.AddItem(uuidBtn);
+                panel.AddItem(rotateBtn);
 
                 return Result.Succeeded;
             }
